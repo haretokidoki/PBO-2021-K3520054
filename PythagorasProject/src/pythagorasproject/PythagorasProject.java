@@ -53,7 +53,7 @@ public class PythagorasProject {
                     System.out.print("Masukkan nilai C : ");
                     c = input.nextInt();
                     hasil = s.findSiku(a,c);
-                    System.out.println("Nilai sisi C adalah : "+hasil);
+                    System.out.println("Nilai sisi B adalah : "+hasil);
                     System.out.println();
                     break;
                     
