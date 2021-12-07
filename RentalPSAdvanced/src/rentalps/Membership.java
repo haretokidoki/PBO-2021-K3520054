@@ -42,8 +42,6 @@ public class Membership {
         return this.index;
     }
     
-    
-    
     void inputData(){ 
         loop = 1;
         while (loop == 1){
