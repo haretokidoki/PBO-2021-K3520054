@@ -26,9 +26,9 @@ public class MainClass {
         Scanner input = new Scanner(System.in);
         
         //Dummy
-        a.tambah(new DataPegawai("K0120053", "Paijo Telo", "Joglo","A", 20, 0, 0));
-        a.tambah(new DataPegawai("K0259011", "Ipan Setiawan", "Gilingan","B", 34, 1, 2));
-        a.tambah(new DataPegawai("K0391558", "Joko Setiono", "Malang","C", 31, 1, 1));
+        //a.tambah(new DataPegawai("K0120053", "Paijo Telo", "Joglo","A", 20, 0, 0));
+        //a.tambah(new DataPegawai("K0259011", "Ipan Setiawan", "Gilingan","B", 34, 1, 2));
+        //a.tambah(new DataPegawai("K0391558", "Joko Setiono", "Malang","C", 31, 1, 1));
         
         while(loop == true){   
             System.out.println();
